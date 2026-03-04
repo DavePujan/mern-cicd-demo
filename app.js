@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", (req, res) => {
-    res.send("Hello from AWS CI/CD Pipeline");
+    res.send("Hello from AWS CI/CD Pipeline Version 1.0");
 });
 
 app.get("/api", (req, res) => {
