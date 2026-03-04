@@ -1,0 +1,12 @@
+{
+  "name": "mern-cicd-demo",
+  "version": "1.0.0",
+  "description": "AWS CI/CD demo project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
