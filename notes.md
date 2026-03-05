@@ -66,7 +66,8 @@ Refresh → updated app.
 
 Students will clearly understand CI/CD automation.
 
-⭐ After the Session (Important)
+
+-> After the Session (Important)
 
 Stop instance again:
 
